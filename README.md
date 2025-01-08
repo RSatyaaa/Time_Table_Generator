@@ -1,16 +1,14 @@
 # Time Table Generator
 This Java program generates a timetable based on certain predefined rules and conditions.
 
-## Rules :dart:
+## Rules
 
 - A Teacher can have a maximum of 2 lectures in a day.
 - A Teacher can take a maximum of 1 lecture in a particular class on any given day.
 - A Teacher can take a maximum of 2 lectures for a particular class in a week.
 - A Class can have a maximum of 3 lectures in a day.
 
-## Note :warning:
 
-Teachers, their Courses, and Classes are hardcoded into arrays. However, you can modify the data in these arrays to adapt the program to your specific needs.
 
 ## Flow
 
